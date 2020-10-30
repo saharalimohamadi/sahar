@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/saharalimohamadi/sahar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<img src="http://avatars3.githubusercontent.com/u/73536832?s=400&=c059e60c920897bc6230ef5e9bc41eecea381b84&v=4"/>
+### About Me
+I am Sahar Ali Mohammadi
+Born in 1977 _ Computer Engineering Student _ Interested in Programming, Undergraduate Course, Payame Noor University
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### phon number
+09198781288
 
-### Markdown
+### Personal information
++ First name : Sahar
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
++ Last name : Alimohamadi
 
-```markdown
-Syntax highlighted code block
++ Birth Day : 3 Bahman 1377
 
-# Header 1
-## Header 2
-### Header 3
+### Languages
++ Persian
 
-- Bulleted
-- List
++ English(Intermediate)
 
-1. Numbered
-2. List
+### Skills
++ ICDL skills
++ Programming in Java language
++ Programming in language C++
 
-**Bold** and _Italic_ and `Code` text
+ 
+ ### Work Experience
 
-[Link](url) and ![Image](src)
-```
+### Certifications
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Contact Me
+- Gmail: mailto:Saharmohamadi980@gmail.com
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/saharalimohamadi/sahar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### درباره من
+من سحر علی محمدی هستم
+ متولد سال ۷۷_دانشجوی مهندسی کامپیوتر علاقه مند به برنامه نویسی،دوره کارشناسی دانشگاه پیام نور
 
-### Support or Contact
+### شماره تماس 
+09198781288
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### اطلاعات شخصی
++ نام: سحر
+
++ نام خانوادگی : علی محمدی
+
++ تولد: 3 بهمن 1377
+
+### زبان
++ فارسی
+
++ (انگلیسی  (متوسط
+
+### مهارت ها
+تایپ لاتکس
++ مهارت های ICDL
++ برنامه نویسی به زبان جاوا
++ برنامه نویسی به زبان C++
+  
+### سوابق کاری
+
+### گواهی مهارت
