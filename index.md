@@ -53,7 +53,6 @@ Born in 1977 _ Computer Engineering Student _ Interested in Programming, Undergr
 + (انگلیسی  (متوسط
 
 ### مهارت ها
-تایپ لاتکس
 + مهارت های ICDL
 + برنامه نویسی به زبان جاوا
 + برنامه نویسی به زبان C++
